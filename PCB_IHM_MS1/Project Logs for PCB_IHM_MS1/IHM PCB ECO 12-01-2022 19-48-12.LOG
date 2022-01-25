@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=VCC Pin=P1-7
+Removed Pin From Net: NetName=NetP1_3 Pin=R19-1
+Removed Pin From Net: NetName=NetP1_5 Pin=R24-1
+Removed Pin From Net: NetName=NetP1_5 Pin=TP1-1
+Removed Pin From Net: NetName=NetP1_3 Pin=TP4-1
+Change Component Footprint: Designator=P1 Old Footprint=SMTC-TSW-107-05-X-S New Footprint=PCBComponent_1
+Change Component Comment : Designator=P1 Old Comment=TSW-107-05-G-S New Comment=Component_1
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2D58C17C-6CEA-4EB5-9C96-1FE61CE2E709 New ItemGUID= Old RevisionGUID=A2A024AE-5DF7-4F46-ADCF-21B5DB8E2B5C New RevisionGUID=
+Change component parameters: Designator = "P1" ("P1"); Footprint = "SMTC-TSW-107-05-X-S"; UniqueID = "\LZQAOLSO\XPGQQNWB" ("\LZQAOLSO\XPGQQNWB")
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetP1_5 Pin=R19-1
+Added Pin To Net: NetName=NetP1_3 Pin=R24-1
+Added Pin To Net: NetName=NetP1_3 Pin=TP1-1
+Added Pin To Net: NetName=NetP1_5 Pin=TP4-1
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetP1_6 Pin=R22-1
+Added Pin To Net: NetName=NetP1_6 Pin=TP2-1
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_7 Pin=R20-2
+Added Pin To Net: NetName=NetP1_7 Pin=TP7-1
+Added Net: Name=NetP1_7

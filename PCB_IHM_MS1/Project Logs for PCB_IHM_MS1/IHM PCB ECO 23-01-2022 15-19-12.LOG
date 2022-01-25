@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=P?-6
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Member To Class: ClassName=LED Member=Component R30 ERJ-3EKF1000V
+Added Member To Class: ClassName=BTN Member=Component SW1 PTS645SM43SMTR92LFS
+Added Member To Class: ClassName=BTN Member=Component SW4 PTS645SM43SMTR92LFS

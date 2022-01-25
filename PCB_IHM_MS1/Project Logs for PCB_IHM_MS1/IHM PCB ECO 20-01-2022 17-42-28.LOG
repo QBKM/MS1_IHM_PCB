@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VCC Pin=J8-1
+Removed Pin From Net: NetName=NetC3_1 Pin=J8-2
+Removed Pin From Net: NetName=NetC6_1 Pin=J8-3
+Removed Pin From Net: NetName=NetC7_1 Pin=J8-4
+Removed Pin From Net: NetName=NetC8_1 Pin=J8-5
+Removed Pin From Net: NetName=GND Pin=J8-10
+Removed Member From Class: ClassName=CONN SEQ Member=J8
+Removed Member From Class: ClassName=STM32 Member=R46
+Removed Member From Class: ClassName=STM32 Member=TP11
+Added Component: Designator=P?(SMTC-TSW-105-15-X-D)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSW_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSW-XXX-XX-XXX-X-XX-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ".025[0.64] SQ. Post Terminal Strip Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TSW-105-15-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "DM, 8/1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TSW-105-15-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=NetC6_1 Pin=P?-2
+Added Pin To Net: NetName=NetC3_1 Pin=P?-4
+Added Pin To Net: NetName=NetC8_1 Pin=P?-5
+Added Pin To Net: NetName=NetC7_1 Pin=P?-7
+Added Pin To Net: NetName=VCC Pin=P?-9
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Pin To Net: NetName=NetP?_6 Pin=R18-1
+Added Pin To Net: NetName=NetP?_6 Pin=TP5-1
+Added Net: Name=NetP?_6
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Added Pin To Net: NetName=NetP?_8 Pin=R17-1
+Added Pin To Net: NetName=NetP?_8 Pin=TP6-1
+Added Net: Name=NetP?_8
+Added Pin To Net: NetName=NetP?_10 Pin=P?-10
+Added Pin To Net: NetName=NetP?_10 Pin=R45-1
+Added Pin To Net: NetName=NetP?_10 Pin=TP12-1
+Added Net: Name=NetP?_10
+Added Member To Class: ClassName=CONN SEQ Member=Component P? TSW-105-15-G-D

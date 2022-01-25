@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=STM32 Member=R31
+Added Member To Class: ClassName=STM32 Member=Component R17 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R18 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R20 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R22 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R24 ERJ3EKF1002V
+Added Member To Class: ClassName=STM32 Member=Component R26 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R28 CRCW06030000Z0EA
+Added Member To Class: ClassName=STM32 Member=Component R30 CRCW06030000Z0EA
+Added Member To Class: ClassName=LED Member=Component R33 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R34 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R36 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R38 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R40 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R42 ERJ-3EKF1000V
+Added Member To Class: ClassName=LED Member=Component R44 ERJ-3EKF1000V
+Added Member To Class: ClassName=STM32 Member=Component TP7 5012
+Added Member To Class: ClassName=STM32 Member=Component TP9 5012
+Added Member To Class: ClassName=PWR Member=Wire NetJ4_1
+Added Member To Class: ClassName=PWR Member=Wire NetJ4_2
+Added Member To Class: ClassName=HF Member=Wire NetR28_2
